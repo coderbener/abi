@@ -192,8 +192,8 @@ export default function Index() {
             </div>
             <div>
               <h3 className="font-bold text-lg mb-3">Contact</h3>
-              <p className="text-sm opacity-90 mb-2">Email: info@stayhub.com</p>
-              <p className="text-sm opacity-90">Phone: +91 1234567890</p>
+              <p className="text-sm opacity-90 mb-2">Email: Bsa378797@gmail.com</p>
+              <p className="text-sm opacity-90">Phone: +91 94004 65404</p>
             </div>
           </div>
 
