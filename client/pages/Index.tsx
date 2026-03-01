@@ -198,7 +198,7 @@ export default function Index() {
           </div>
 
           <div className="border-t border-white border-opacity-20 pt-8 text-center text-sm opacity-80">
-            <p>&copy; 2024 StayHub. All rights reserved.</p>
+            <p>&copy; 2026 StayHub. All rights reserved.</p>
           </div>
         </div>
       </footer>
