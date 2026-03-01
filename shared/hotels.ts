@@ -193,7 +193,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.8,
     price: 14000,
-    image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?w=800&h=600&fit=crop",
+    image: "https://t4.ftcdn.net/jpg/05/31/51/17/240_F_531511778_g7VshZK86lPxkRcyNFtyxKy0jtVu5dhJ.jpg",
     description: "Elegant villa overlooking Kochi backwaters with private boat access and luxury amenities.",
     amenities: ["WiFi", "Private Boat", "Pool", "Kitchen", "Backwater View", "Concierge"],
     contact: {
