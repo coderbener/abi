@@ -138,12 +138,12 @@ export const HOTELS: Hotel[] = [
   },
   {
     id: "8",
-    name: "Kannur Spice Garden Resort",
+    name: "Abhi Resort",
     type: "resort",
     location: "Kannur",
     rating: 4.6,
     price: 8000,
-    image: "https://images.pexels.com/photos/1731162/pexels-photo-1731162.jpeg?w=800&h=600&fit=crop",
+    image: "https://t3.ftcdn.net/jpg/07/31/40/70/240_F_731407057_CrBuyvFIZTxuqZpjCVmZa49mTePJ7ehw.jpg",
     description: "Immersive resort experience with spice plantations, Ayurveda, and wellness programs.",
     amenities: ["WiFi", "Spice Tours", "Ayurveda", "Pool", "Restaurant", "Yoga"],
     contact: {
@@ -159,7 +159,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.2,
     price: 3000,
-    image: "https://images.pexels.com/photos/1268558/pexels-photo-1268558.jpeg?w=800&h=600&fit=crop",
+    image: "https://t4.ftcdn.net/jpg/01/94/89/35/240_F_194893504_Hx8dJBImTVmzaYe4wb4golwXCdtjsZKz.jpg",
     description: "Charming seaside guest house with local hospitality and authentic Kerala experience.",
     amenities: ["WiFi", "Sea View", "Common Kitchen", "Local Food"],
     contact: {
@@ -177,7 +177,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.7,
     price: 7500,
-    image: "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?w=800&h=600&fit=crop",
+    image: "https://t3.ftcdn.net/jpg/01/85/53/08/240_F_185530861_EMFfT3pBVMLWjIPY7qfIkisqGZHZruBw.jpg",
     description: "Modern luxury hotel in the heart of Kochi with convenient city access and premium service.",
     amenities: ["WiFi", "Restaurant", "Gym", "Business Center", "Rooftop Bar", "City View"],
     contact: {
