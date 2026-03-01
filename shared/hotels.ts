@@ -109,7 +109,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.9,
     price: 15000,
-    image: "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?w=800&h=600&fit=crop",
+    image: "https://t4.ftcdn.net/jpg/18/24/23/99/240_F_1824239917_sBrYe4AE30rfLkAIrQEYbDzbH6IWtK8x.jpg",
     description: "Exclusive beachfront villa with private pool and breathtaking ocean views.",
     amenities: ["WiFi", "Private Beach", "Pool", "Kitchen", "Infinity View", "Concierge"],
     contact: {
