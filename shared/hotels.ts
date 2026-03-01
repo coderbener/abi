@@ -127,7 +127,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.4,
     price: 5500,
-    image: "https://images.pexels.com/photos/1320712/pexels-photo-1320712.jpeg?w=800&h=600&fit=crop",
+    image: "https://t3.ftcdn.net/jpg/06/45/82/22/240_F_645822250_Pd5aGmPZNJLfNbQI3vMKuI2YKh096hHu.jpg",
     description: "Historic hotel near Kannur Fort with traditional Kerala architecture and modern amenities.",
     amenities: ["WiFi", "Restaurant", "Fort View", "Spa", "Guided Tours", "Bar"],
     contact: {
