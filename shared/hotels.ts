@@ -142,7 +142,7 @@ export const HOTELS: Hotel[] = [
     type: "resort",
     location: "Kannur",
     rating: 4.6,
-    price: 8000,
+    price: 80,000,
     image: "https://t3.ftcdn.net/jpg/07/31/40/70/240_F_731407057_CrBuyvFIZTxuqZpjCVmZa49mTePJ7ehw.jpg",
     description: "Immersive resort experience with spice plantations, Ayurveda, and wellness programs.",
     amenities: ["WiFi", "Spice Tours", "Ayurveda", "Pool", "Restaurant", "Yoga"],
