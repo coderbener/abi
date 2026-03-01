@@ -22,14 +22,14 @@ export default function Index() {
     return matchesLocation && matchesSearch;
   });
 
-  // Auto-scroll to listings when searching
+  // Auto-scroll to listings when location is selected
   useEffect(() => {
-    if (selectedLocation || searchQuery) {
+    if (selectedLocation) {
       setTimeout(() => {
         listingsRef.current?.scrollIntoView({ behavior: "smooth" });
       }, 100);
     }
-  }, [selectedLocation, searchQuery]);
+  }, [selectedLocation]);
 
   const handleLocationSelect = (location: Location) => {
     setSelectedLocation(selectedLocation === location ? null : location);
@@ -49,7 +49,7 @@ export default function Index() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&h=900&fit=crop')",
+              "url('https://images.pexels.com/photos/1566073/pexels-photo-1566073.jpeg?w=1600&h=900&fit=crop')",
           }}
         >
           <div className="absolute inset-0 bg-black bg-opacity-40"></div>
@@ -82,7 +82,7 @@ export default function Index() {
       </div>
 
       {/* Location Filter Section */}
-      <div className="bg-white border-b border-border sticky top-16 z-40 shadow-sm">
+      <div className="bg-white border-b border-border sticky top-16 z-40 shadow-sm" data-section="location-filter">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex items-center gap-3 mb-4">
             <MapPin className="w-5 h-5 text-accent" />

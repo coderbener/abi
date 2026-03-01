@@ -27,7 +27,7 @@ export const HOTELS: Hotel[] = [
     location: "Chemperi",
     rating: 4.8,
     price: 8500,
-    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1631049/pexels-photo-1631049.jpeg?w=800&h=600&fit=crop",
     description: "Luxury resort nestled in the Chemperi hills with panoramic views and world-class amenities.",
     amenities: ["WiFi", "Pool", "Spa", "Restaurant", "Garden", "Mountain View"],
     contact: {
@@ -43,7 +43,7 @@ export const HOTELS: Hotel[] = [
     location: "Chemperi",
     rating: 4.6,
     price: 12000,
-    image: "https://images.unsplash.com/photo-1570129477492-45f003313e78?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1570129/pexels-photo-1570129.jpeg?w=800&h=600&fit=crop",
     description: "Private villa with stunning valley views, perfect for a romantic getaway.",
     amenities: ["WiFi", "Private Garden", "Kitchen", "Pool", "Jacuzzi", "Terrace"],
     contact: {
@@ -59,7 +59,7 @@ export const HOTELS: Hotel[] = [
     location: "Chemperi",
     rating: 4.3,
     price: 3500,
-    image: "https://images.unsplash.com/photo-1631049307038-da0ec9d70304?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/3555615/pexels-photo-3555615.jpeg?w=800&h=600&fit=crop",
     description: "Cozy and affordable guest house with warm hospitality and local charm.",
     amenities: ["WiFi", "Common Kitchen", "Garden", "Local Experience"],
     contact: {
@@ -77,7 +77,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.7,
     price: 6500,
-    image: "https://images.unsplash.com/photo-1561501900-d3fee756e604?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?w=800&h=600&fit=crop",
     description: "Beachfront hotel with direct access to pristine sandy beaches and coastal views.",
     amenities: ["WiFi", "Beach Access", "Restaurant", "Bar", "Sunset Lounge", "Water Sports"],
     contact: {
@@ -93,7 +93,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.5,
     price: 9000,
-    image: "https://images.unsplash.com/photo-1512207736139-bb29cada3d17?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1535632/pexels-photo-1535632.jpeg?w=800&h=600&fit=crop",
     description: "Historic resort blending heritage architecture with modern luxury and comfort.",
     amenities: ["WiFi", "Pool", "Spa", "Heritage Tours", "Restaurant", "Conference Room"],
     contact: {
@@ -109,7 +109,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.9,
     price: 15000,
-    image: "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?w=800&h=600&fit=crop",
     description: "Exclusive beachfront villa with private pool and breathtaking ocean views.",
     amenities: ["WiFi", "Private Beach", "Pool", "Kitchen", "Infinity View", "Concierge"],
     contact: {
@@ -127,7 +127,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.4,
     price: 5500,
-    image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1320712/pexels-photo-1320712.jpeg?w=800&h=600&fit=crop",
     description: "Historic hotel near Kannur Fort with traditional Kerala architecture and modern amenities.",
     amenities: ["WiFi", "Restaurant", "Fort View", "Spa", "Guided Tours", "Bar"],
     contact: {
@@ -143,7 +143,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.6,
     price: 8000,
-    image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1731162/pexels-photo-1731162.jpeg?w=800&h=600&fit=crop",
     description: "Immersive resort experience with spice plantations, Ayurveda, and wellness programs.",
     amenities: ["WiFi", "Spice Tours", "Ayurveda", "Pool", "Restaurant", "Yoga"],
     contact: {
@@ -159,7 +159,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.2,
     price: 3000,
-    image: "https://images.unsplash.com/photo-1555992336-cd4628902c4d?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1268558/pexels-photo-1268558.jpeg?w=800&h=600&fit=crop",
     description: "Charming seaside guest house with local hospitality and authentic Kerala experience.",
     amenities: ["WiFi", "Sea View", "Common Kitchen", "Local Food"],
     contact: {
@@ -177,7 +177,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.7,
     price: 7500,
-    image: "https://images.unsplash.com/photo-1552058544-f53b5bdd6b1b?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg?w=800&h=600&fit=crop",
     description: "Modern luxury hotel in the heart of Kochi with convenient city access and premium service.",
     amenities: ["WiFi", "Restaurant", "Gym", "Business Center", "Rooftop Bar", "City View"],
     contact: {
@@ -193,7 +193,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.8,
     price: 14000,
-    image: "https://images.unsplash.com/photo-1618619909620-e70bef6a6c60?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?w=800&h=600&fit=crop",
     description: "Elegant villa overlooking Kochi backwaters with private boat access and luxury amenities.",
     amenities: ["WiFi", "Private Boat", "Pool", "Kitchen", "Backwater View", "Concierge"],
     contact: {
@@ -209,7 +209,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.5,
     price: 9500,
-    image: "https://images.unsplash.com/photo-1563258595-cdaf408ed4a0?w=800&h=600&fit=crop",
+    image: "https://images.pexels.com/photos/1578802/pexels-photo-1578802.jpeg?w=800&h=600&fit=crop",
     description: "Premium resort blending colonial charm with contemporary luxury, ideal for relaxation.",
     amenities: ["WiFi", "Pool", "Spa", "Heritage Tours", "Fine Dining", "Wine Bar"],
     contact: {
