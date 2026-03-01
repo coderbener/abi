@@ -198,11 +198,13 @@ export default function HotelCard({ hotel }: HotelCardProps) {
               </div>
 
               {/* Price and Booking */}
-              <div className="bg-gradient-to-r from-primary to-primary bg-opacity-5 rounded-xl p-6 mb-6">
-                <p className="text-muted-foreground text-sm mb-2">Starting from</p>
-                <div className="flex items-baseline gap-2 mb-4">
-                  <span className="text-4xl font-bold text-primary">₹{hotel.price.toLocaleString()}</span>
-                  <span className="text-muted-foreground">/night</span>
+              <div className="bg-muted rounded-xl p-6 mb-6 border border-border">
+                <p className="text-muted-foreground text-sm mb-3">Starting from</p>
+                <div className="flex flex-col gap-1">
+                  <div className="flex items-baseline gap-2">
+                    <span className="text-3xl sm:text-4xl font-bold text-primary">₹{hotel.price.toLocaleString()}</span>
+                    <span className="text-muted-foreground text-base">/night</span>
+                  </div>
                 </div>
               </div>
 
