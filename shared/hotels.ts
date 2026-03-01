@@ -43,7 +43,7 @@ export const HOTELS: Hotel[] = [
     location: "Chemperi",
     rating: 4.6,
     price: 12000,
-    image: "https://images.pexels.com/photos/1570129/pexels-photo-1570129.jpeg?w=800&h=600&fit=crop",
+    image: "https://t3.ftcdn.net/jpg/17/48/63/02/240_F_1748630267_IEet0YVIORl5tos9zZ1SlqVAI2Nc8WhV.jpg",
     description: "Private villa with stunning valley views, perfect for a romantic getaway.",
     amenities: ["WiFi", "Private Garden", "Kitchen", "Pool", "Jacuzzi", "Terrace"],
     contact: {
