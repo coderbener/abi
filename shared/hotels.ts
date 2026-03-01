@@ -209,7 +209,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.5,
     price: 9500,
-    image: "https://images.pexels.com/photos/1578802/pexels-photo-1578802.jpeg?w=800&h=600&fit=crop",
+    image: "https://t3.ftcdn.net/jpg/02/66/26/92/240_F_266269223_voOEkuIoS51yrL5G2Lw01OnqQQx9qBUb.jpg",
     description: "Premium resort blending colonial charm with contemporary luxury, ideal for relaxation.",
     amenities: ["WiFi", "Pool", "Spa", "Heritage Tours", "Fine Dining", "Wine Bar"],
     contact: {
