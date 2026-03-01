@@ -49,7 +49,7 @@ export default function Index() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('https://pngtree.com/free-backgrounds-photos/luxury-aesthetics')",
+              "url('https://as1.ftcdn.net/v2/jpg/09/68/33/08/1000_F_968330813_OKPtDigy6bWyHUW3nSr3SHquNvgaXm9m.jpg')",
           }}
         >
           <div className="absolute inset-0 bg-black bg-opacity-40"></div>
