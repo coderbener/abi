@@ -27,7 +27,7 @@ export const HOTELS: Hotel[] = [
     location: "Chemperi",
     rating: 2.8,
     price: 230,
-    image: "https://t3.ftcdn.net/jpg/02/33/59/42/240_F_233594258_81s2Un5DEpmiHYxuOPAUfnrD0T9we5fd.jpg",
+    image: "https://content.jdmagicbox.com/comp/kannur/d3/9999px497.x497.200205203056.p8d3/catalogue/surabhi-ladies-hostel-chemperi-kannur-hostels-sfis48dc9u.jpg",
     description: "Affordable ladies PG with good food and quality water and proper basic facilities.",
     amenities: ["WiFi", "curtain", "cctv"],
     contact: {
