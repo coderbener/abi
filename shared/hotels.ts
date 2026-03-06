@@ -22,18 +22,18 @@ export const HOTELS: Hotel[] = [
   // Chemperi
   {
     id: "1",
-    name: "Chemperi Hills Resort",
-    type: "resort",
+    name: "surabhi PG",
+    type: "PG",
     location: "Chemperi",
-    rating: 4.8,
-    price: 8500,
+    rating: 2.8,
+    price: 7000,
     image: "https://t3.ftcdn.net/jpg/02/33/59/42/240_F_233594258_81s2Un5DEpmiHYxuOPAUfnrD0T9we5fd.jpg",
-    description: "Luxury resort nestled in the Chemperi hills with panoramic views and world-class amenities.",
-    amenities: ["WiFi", "Pool", "Spa", "Restaurant", "Garden", "Mountain View"],
+    description: "Affordable ladies PG with good food and quality water and proper basic facilities.",
+    amenities: ["WiFi", "curtain", "cctv"],
     contact: {
-      phone: "+91 9876543210",
-      email: "booking@chemperi-hills.com",
-      address: "Chemperi Hills, Kerala 673591",
+      phone: "+91 7947107205",
+      email: "surabhi@gmail.com",
+      address: "Taliparamba Iritty Road, Chemperi, Kannur-670632, Kerala",
     },
   },
   {
