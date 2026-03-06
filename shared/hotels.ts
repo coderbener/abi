@@ -26,7 +26,7 @@ export const HOTELS: Hotel[] = [
     type: "PG",
     location: "Chemperi",
     rating: 2.8,
-    price: 7000,
+    price: 230,
     image: "https://t3.ftcdn.net/jpg/02/33/59/42/240_F_233594258_81s2Un5DEpmiHYxuOPAUfnrD0T9we5fd.jpg",
     description: "Affordable ladies PG with good food and quality water and proper basic facilities.",
     amenities: ["WiFi", "curtain", "cctv"],
