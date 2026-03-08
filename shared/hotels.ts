@@ -89,7 +89,7 @@ export const HOTELS: Hotel[] = [
   {
     id: "13", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
     name: "kodiyeri hostel",
-    type: "HOSTEL",
+    type: "hostel",
     location: "Thalassery",
     rating: 4.7,
     price: 450, // Price per day
@@ -105,7 +105,7 @@ export const HOTELS: Hotel[] = [
   {
     id: "14", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
     name: "ST.JOSEPH HOSTEL",
-    type: "HOSTEL",
+    type: "hostel",
     location: "Thalassery",
     rating: 3.0,
     price: 450, // Price per day
@@ -118,7 +118,7 @@ export const HOTELS: Hotel[] = [
       address: "pratheeksha,nayanar road,chondam,thalassery,kerala 670641",
     },
   },
-  { {
+  {
     id: "15", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
     name: "hill view mens hostel",
     type: "hostel",
@@ -133,7 +133,8 @@ export const HOTELS: Hotel[] = [
       email: "hillview@gmail.com",
       address: "eranholi,Thalassery,kerala 670107",
     },
-     
+  },
+
   {
     id: "5",
     name: "EBENEZER PG FOR GENTS",
@@ -208,6 +209,7 @@ export const HOTELS: Hotel[] = [
     rating: 4.7,
     price: 400,
     image: "",
+    description: "Affordable ladies PG with essential amenities.",
     amenities: ["WiFi","cleaning", "laundary"],
     contact: {
       phone: "+91 9946404141",
