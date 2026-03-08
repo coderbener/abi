@@ -368,7 +368,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 5.0,
      price: 800, // Price per day
-    image: "", 
+    image: "https://lh3.googleusercontent.com/p/AF1QipNlO6qKMVn37tsSL8sdGoGFYpUj0c84XxknNjc3=s1360-w1360-h1020-rw", 
     description: "WWell maintained PG with good facilities.",
     amenities: ["WiFi", "Laundry", "Food", "Security"],
     contact: {
