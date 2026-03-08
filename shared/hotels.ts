@@ -62,7 +62,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.8,
     price: 350,
-    image: "",
+    image: "https://lh3.googleusercontent.com/p/AF1QipNPOMIpCdQX7Eqma9bBucFhlMQQA9qD_VdFHQhZ=s680-w680-h510-rw",
     description: "Newly constructed paying guest facility near College of Engineering Thalassery, Kannur. (CAPE).",
     amenities: ["wifi", "laundry","transportation service"],
     contact: {
