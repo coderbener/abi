@@ -379,7 +379,7 @@ export const HOTELS: Hotel[] = [
   },
   {
     id: "12",
-    name: "JUWAL PG hor ladies",
+    name: "JUWAL PG for ladies",
     type: "PG",
     location: "Kochi",
     rating: 4.9,
