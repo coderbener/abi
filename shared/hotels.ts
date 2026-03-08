@@ -281,7 +281,52 @@ export const HOTELS: Hotel[] = [
       address: "mayyil road dharmashala parassinikadavu,kannur, Kerala 670563",
     },
   },
-
+ {
+    id: "21", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "Royal star hostel",
+    type: "hostel", 
+    location: "Kannur",
+    rating: 4.1,
+    price: 450, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "Affordable pg with advanced facilities.",
+    amenities: ["WiFi", "Laundry", "Food"],
+    contact: {
+      phone: "+91 7907565819",
+      email: "starroyal@gmail.com",
+      address: "Mansuit building,near mother and child hospital Kannur,kerala 670002",
+    },
+  }, {
+    id: "22", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "Chempakam ladies PG",
+    type: "PG", 
+    location: "Kannur",
+    rating: 5.0,
+    price: 500, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "affordable group accommoadated well maintained pg.",
+    amenities: ["WiFi", "Laundry", "Food", "Security"],
+    contact: {
+      phone: "+91 9495988754",
+      email: "chempakam@gmail.com",
+      address: "Dhanalakshmi nursing collage road,near SBI branch puzhathi Kannur,kerala 670005",
+    },
+  }, {
+    id: "23", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "Phoenix womens PG",
+    type: "PG", 
+    location: "Kannur",
+    rating: 3.2,
+    price: 300, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "affordable pg with good facilities .",
+    amenities: ["WiFi"],
+    contact: {
+      phone: "+91 9591324542",
+      email: "pheonix777@gmail.com",
+      address: "narayan ayadath,behind edumart,mukundan road,talap,Kannur,kerala 670002 ",
+    },
+  },
   // Kochi
   {
     id: "10",
