@@ -1,4 +1,4 @@
-export type HotelType = "hotel" | "villa" | "resort" | "guest-house" | "PG";
+export type HotelType = "hotel" | "villa" | "resort" | "guest-house";
 export type Location = "Chemperi" | "Thalassery" | "Kannur" | "Kochi";
 
 export interface Hotel {
@@ -159,7 +159,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.7,
     price: 400,
-    image: "https://t4.ftcdn.net/jpg/01/94/89/35/240_F_194893504_Hx8dJBImTVmzaYe4wb4golwXCdtjsZKz.jpg",
+    image: "",
     description: "affordable ladies pg with advanced facilities.",
     amenities: ["WiFi","cleaning", "laundary"],
     contact: {
@@ -210,7 +210,7 @@ export const HOTELS: Hotel[] = [
     rating: 4.5,
     price: 400,
     image: "https://t3.ftcdn.net/jpg/02/66/26/92/240_F_266269223_voOEkuIoS51yrL5G2Lw01OnqQQx9qBUb.jpg",
-    description: "affordable ladies pg with advanced security.",
+    description: "affordable ladies pg with advanced security ".",
     amenities: ["WiFi", "laundary", "CCTV", "security"],
     contact: {
       phone: "+91 9876543221",
