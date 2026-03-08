@@ -72,18 +72,18 @@ export const HOTELS: Hotel[] = [
   // Thalassery
   {
     id: "4",
-    name: "Thalassery Beach Hotel",
-    type: "hotel",
+    name: "PG hostel by JV@N GROUP",
+    type: "guest house",
     location: "Thalassery",
-    rating: 4.7,
+    rating: 4.8,
     price: 6500,
     image: "https://t3.ftcdn.net/jpg/00/65/73/00/240_F_65730021_hjLGH7LgvYg6zZNT26xPrYI3HvuAQ9Bx.jpg",
-    description: "Beachfront hotel with direct access to pristine sandy beaches and coastal views.",
-    amenities: ["WiFi", "Beach Access", "Restaurant", "Bar", "Sunset Lounge", "Water Sports"],
+    description: "Newly constructed paying guest facility near College of Engineering Thalassery, Kannur. (CAPE).",
+    amenities: ["wifi",laundar],
     contact: {
-      phone: "+91 9876543213",
+      phone: "+91 9595335132",
       email: "info@thalassery-beach.com",
-      address: "Thalassery Beach Road, Kerala 670101",
+      address: "Vadiyilpeedika Vadiyilpeedika, 100 metres from Vadiyilpeedika, Road, Chonadam, Thalassery, Kerala 670107",
     },
   },
   {
