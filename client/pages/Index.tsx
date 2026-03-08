@@ -61,7 +61,7 @@ export default function Index() {
               Discover Your Perfect Stay
             </h1>
             <p className="text-lg sm:text-xl text-white opacity-90 mb-12 drop-shadow-md">
-              Find beautiful Paying Guest (PG) accommodations across Kerala’s most stunning locations.
+              Find beautiful Paying Guest (PG) & HOSTELS accommodations across Kerala’s most stunning locations.
             </p>
 
             {/* Search Bar */}
