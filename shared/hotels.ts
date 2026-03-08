@@ -172,17 +172,17 @@ export const HOTELS: Hotel[] = [
   // Kochi
   {
     id: "10",
-    name: "Kochi Metropolitan Hotel",
-    type: "hotel",
+    name: "sweetjump PG",
+    type: "PG",
     location: "Kochi",
     rating: 4.7,
-    price: 7500,
+    price: 350,
     image: "https://t3.ftcdn.net/jpg/01/85/53/08/240_F_185530861_EMFfT3pBVMLWjIPY7qfIkisqGZHZruBw.jpg",
-    description: "Modern luxury hotel in the heart of Kochi with convenient city access and premium service.",
-    amenities: ["WiFi", "Restaurant", "Gym", "Business Center", "Rooftop Bar", "City View"],
+    description: "affordable ladies pg with advanced facilities.",
+    amenities: ["WiFi", "cleaning", "laundary"],
     contact: {
       phone: "+91 9876543219",
-      email: "reservations@kochi-metro.com",
+      email: "reservationsjumb@gmail.com",
       address: "Fort Kochi, Kerala 682001",
     },
   },
