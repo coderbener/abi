@@ -175,7 +175,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 3.0,
     price: 350, // Price per day
-    image:"", 
+    image:"https://content.jdmagicbox.com/v2/comp/mangalore/b2/0824px824.x824.181213033620.s9b2/catalogue/jamiyyatul-falah-boys-hostel-kankanady-mangalore-hostels-MxjHFWWXeX.jpg", 
     description: "Well maintained affordable hostel.",
     amenities: ["WiFi", "cleaning"],
     contact: {
@@ -191,7 +191,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.2,
     price: 400, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    image: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7zgKK55cuR8ZtY_-Pb7UHdtwOP_XcUoQj2yyFBrEf19GXAtEjVMQqbcIV9EIsA8h8TtjjgRNhAKYjwLVtgpyX6CzUzqZnw9PN0-1xXRIadQJx4ewWLDvcv20TqE_gUUOl1R0gCg=s1360-w1360-h1020-rw", 
     description: "Affordable boys pg with advanced facilities.",
     amenities: ["WiFi", "Security"],
     contact: {
@@ -225,7 +225,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 3.5,
     price: 350,
-    image: "",
+    image: "https://lh3.googleusercontent.com/p/AF1QipO0BliIeXzeUB-OPRUgklc-l9avXWp-uZMMBlOm=s1360-w1360-h1020-rw",
     description: "well maintained and affordable pg.",
     amenities: ["WiFi", "cleaning", "laundary"],
     contact: {
@@ -241,7 +241,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.9,
     price: 500,
-    image: "",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbyBtbmUg8lJ_q_dWib7b3PC3EZSUkHQsa6g&s",
     description: "affordable pg for girls and womens.",
     amenities: ["WiFi", "cleaning", "laundary"],
     contact: {
