@@ -109,7 +109,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.7,
     price: 400,
-    image: "https://www.google.com/imgres?q=devam%20ladies%20pg&imgurl=https%3A%2F%2Fcontent.jdmagicbox.com%2Fcomp%2Fkannur%2Fn7%2F9999px497.x497.230808160731.x9n7%2Fcatalogue%2Fdevam-ladies-pg-illathaazha-kannur-paying-guest-accommodations-uofic4gdf0.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FKannur%2FDevam-Ladies-Pg-Opposite-Kodiyeri-Thalassery-Illathaazha%2F9999PX497-X497-230808160731-X9N7_BZDET%2Freviews&docid=gqeBwSDs1p30FM&tbnid=CV_Qng76tS5jFM&vet=12ahUKEwi3ka2x7I-TAxXVzDgGHeUeL3wQM3oECBsQAA..i&w=1081&h=1600&hcb=2&itg=1&ved=2ahUKEwi3ka2x7I-TAxXVzDgGHeUeL3wQM3oECBsQAA",
+    image: "https://www.google.com/imgres?q=devam%20ladies%20pg&imgurl=https%3A%2F%2Fcontent3.jdmagicbox.com%2Fcomp%2Fthiruvananthapuram%2Fu4%2F0471px471.x471.220328203954.r7u4%2Fcatalogue%2Fsatheedevam-ladies-pg-kazhakuttam-thiruvananthapuram-paying-guest-accommodations-lwvydi3onr.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FThiruvananthapuram%2FSatheedevam-Ladies-Pg-Kazhakuttam%2F0471PX471-X471-220328203954-R7U4_BZDET&docid=po8u8eqh2La7aM&tbnid=XCbIM2piv8pAvM&vet=12ahUKEwi3ka2x7I-TAxXVzDgGHeUeL3wQM3oECB0QAA..i&w=2000&h=1125&hcb=2&ved=2ahUKEwi3ka2x7I-TAxXVzDgGHeUeL3wQM3oECB0QAA",
     description: "affordable pg with advanced facilities providing better security.",
     amenities: ["WiFi", "laundery"],
     contact: {
