@@ -345,6 +345,38 @@ export const HOTELS: Hotel[] = [
       address: "Radha oil mill road,Pachalam,Kochi, Kerala 682012",
     },
   },
+   {
+    id: "25", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "Veenas PG for ladies",
+    type: "PG", 
+    location: "Kochi",
+    rating: 4.8,
+    price: 700, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "Affordable ladies pg with good facilities.",
+    amenities: ["WiFi", "Security"],
+    contact: {
+      phone: "+91 9895718282",
+      email: "veena@gmail.com",
+      address: "Chalikkavattom,Vytilla,Kochi,Kerala 682019",
+    },
+  },
+   {
+    id: "26", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "NAME OF YOUR NEW PG",
+    type: "PG", 
+    location: "Thalassery",
+    rating: 4.5,
+    price: 450, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "Write a short description of the PG here.",
+    amenities: ["WiFi", "Laundry", "Food", "Security"],
+    contact: {
+      phone: "+91 00000 00000",
+      email: "example@gmail.com",
+      address: "Specific Address in Thalassery",
+    },
+  },
   {
     id: "12",
     name: "JUWAL PG hor ladies",
