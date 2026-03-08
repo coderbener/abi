@@ -159,7 +159,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.4,
     price: 400, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    image: "https://content.jdmagicbox.com/v2/comp/kannur/h8/9999px497.x497.211119155017.w3h8/catalogue/safestay-talap-kannur-hostels-0whnvbp276.jpg", 
     description: "Affordable mens hostel with good facilities.",
     amenities: ["WiFi", "Laundry", "cleaning"],
     contact: {
