@@ -43,7 +43,7 @@ export const HOTELS: Hotel[] = [
     location: "Chemperi",
     rating: 4.7,
     price: 230,
-    image: "https://www.justdial.com/Kannur/Hostels-in-Kayaralam/nct-10253730/page-3",
+    image: "https://content.jdmagicbox.com/v2/comp/kannur/r7/9999px497.x497.251014233448.y4r7/catalogue/mother-teresa-pg-hostel-chemperi-kannur-hostels-9tfjpnn1fk.jpg",
     description: "Well-maintained ladies hostel providing a safe and comfortable environment with essential facilities.",
     amenities: ["WiFi", "Laundry", "24/7 Security", "Pure Water"],
     contact: {
