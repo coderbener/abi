@@ -88,18 +88,18 @@ export const HOTELS: Hotel[] = [
   },
   {
     id: "13", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
-    name: "kodiyeri hostel",
+    name: "Kodiyeri hostel",
     type: "hostel",
     location: "Thalassery",
     rating: 4.7,
     price: 450, // Price per day
     image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    description: "affordable pg with godd facilities.",
+    description: "Affordable pg with godd facilities.",
     amenities: ["WiFi", "Laundry", "Food", "Security"],
     contact: {
       phone: "+91 98477368338",
       email: "kodiyerihostel@gmail.com",
-      address: "kodiyeri raju master road,thiruvangad, Thalassery,kerala 670103",
+      address: "Kodiyeri raju master road,thiruvangad, Thalassery,kerala 670103",
     },
   },
   {
@@ -115,23 +115,23 @@ export const HOTELS: Hotel[] = [
     contact: {
       phone: "+91 9495678988",
       email: "stjoseph321@gmail.com",
-      address: "pratheeksha,nayanar road,chondam,thalassery,kerala 670641",
+      address: "Pratheeksha,nayanar road,chondam,thalassery,kerala 670641",
     },
   },
   {
     id: "15", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
-    name: "hill view mens hostel",
+    name: "Hill view mens hostel",
     type: "hostel",
     location: "Thalassery",
     rating: 4.3,
     price: 450, // Price per day
     image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    description: "affordable mens hostel with advanced facilities.",
+    description: "Affordable mens hostel with advanced facilities.",
     amenities: ["WiFi", "Laundry"],
     contact: {
       phone: "+91 8590657666",
       email: "hillview@gmail.com",
-      address: "eranholi,Thalassery,kerala 670107",
+      address: "Eranholi,Thalassery,kerala 670107",
     },
   },
 
@@ -143,7 +143,7 @@ export const HOTELS: Hotel[] = [
     rating: 4.7,
     price: 350,
     image: "https://lh3.googleusercontent.com/p/AF1QipOmM__BDdeNCLLPflnFPXZ6B47pT7i7lYHuV8eO=s1360-w1360-h1020-rw",
-    description: "affordable gents hostel with advanced facilities.",
+    description: "Affordable gents hostel with advanced facilities.",
     amenities: ["WiFi", "laundary service"],
     contact: {
       phone: "+91 8590345654",
@@ -159,7 +159,7 @@ export const HOTELS: Hotel[] = [
     rating: 4.7,
     price: 400,
     image: "",
-    description: "affordable pg with advanced facilities providing better security.",
+    description: "Affordable pg with advanced facilities providing better security.",
     amenities: ["WiFi", "laundery"],
     contact: {
       phone:"+91 9446017511",
@@ -169,66 +169,66 @@ export const HOTELS: Hotel[] = [
   },
   {
     id: "16", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
-    name: "malal men hostel",
+    name: "Malal men hostel",
     type: "hostel", 
     location: "Thalassery",
     rating: 4.4,
     price: 400, // Price per day
     image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
-    description: "affordable mens hostel with good facilities.",
+    description: "Affordable mens hostel with good facilities.",
     amenities: ["WiFi", "Laundry", "cleaning"],
     contact: {
       phone: "+91 8590656767",
       email: "malal123@gmail.com",
-      address: "malal road kundoormala,eranholi,Thalassery,kerala 670641",
+      address: "Malal road kundoormala,eranholi,Thalassery,kerala 670641",
     },
   },
   {
     id: "17", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
-    name: "youth hostel",
+    name: "Youth hostel",
     type: "hostel", 
     location: "Thalassery",
     rating: 3.0,
     price: 350, // Price per day
     image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
-    description: "well maintained affordable hostel.",
+    description: "Well maintained affordable hostel.",
     amenities: ["WiFi", "cleaning"],
     contact: {
       phone: "+91 9495678767",
       email: "youth546@gmail.com",
-      address: "pallisery, Thalassery,kerala 670101",
+      address: "Pallisery, Thalassery,kerala 670101",
     },
   },
   {
     id: "19", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
-    name: "shamah residency boys hostel",
+    name: "Shamah residency boys hostel",
     type: "PG", 
     location: "Thalassery",
     rating: 4.2,
     price: 400, // Price per day
     image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
-    description: "affordable boys pg with advanced facilities.",
+    description: "Affordable boys pg with advanced facilities.",
     amenities: ["WiFi", "Security"],
     contact: {
       phone: "+91 8590765438",
       email: "shamah345@gmail.com",
-      address: "kundoormala,eranholi,Thalassery,kerala 670107",
+      address: "Kundoormala,eranholi,Thalassery,kerala 670107",
     },
   },
   {
     id: "20", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
-    name: "vandanam boys hostel",
+    name: "Vandanam boys hostel",
     type: "hostel", 
     location: "Thalassery",
     rating: 5.0,
     price: 500, // Price per day
     image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
-    description: "cozy and well maintained boys hostel.",
+    description: "Cozy and well maintained boys hostel.",
     amenities: ["WiFi","cleaning"],
     contact: {
       phone: "+91 9446778909",
       email: "vandanam56@gmail.com",
-      address: "kundoormala,eranholi,Thalassery,kerala 670641",
+      address: "Kundoormala,eranholi,Thalassery,kerala 670641",
     },
   },
 
