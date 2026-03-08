@@ -68,8 +68,7 @@ export const HOTELS: Hotel[] = [
       address: "Chemperi Town, Kerala 673591",
     },
   },
-  id: 4
-    
+
   // Thalassery
   {
     id: "4",
