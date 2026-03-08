@@ -87,6 +87,54 @@ export const HOTELS: Hotel[] = [
     },
   },
   {
+    id: "13", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "kodiyeri hostel",
+    type: "HOSTEL",
+    location: "Thalassery",
+    rating: 4.7,
+    price: 450, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    description: "affordable pg with godd facilities.",
+    amenities: ["WiFi", "Laundry", "Food", "Security"],
+    contact: {
+      phone: "+91 98477368338",
+      email: "kodiyerihostel@gmail.com",
+      address: "kodiyeri raju master road,thiruvangad, Thalassery,kerala 670103",
+    },
+  },
+  {
+    id: "14", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "ST.JOSEPH HOSTEL",
+    type: "HOSTEL",
+    location: "Thalassery",
+    rating: 3.0,
+    price: 450, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    description: "Affordable womens hostel with advanced facilitiea.",
+    amenities: ["WiFi", "Security"],
+    contact: {
+      phone: "+91 9495678988",
+      email: "stjoseph321@gmail.com",
+      address: "pratheeksha,nayanar road,chondam,thalassery,kerala 670641",
+    },
+  },
+  { {
+    id: "15", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "hill view mens hostel",
+    type: "hostel",
+    location: "Thalassery",
+    rating: 4.3,
+    price: 450, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    description: "affordable mens hostel with advanced facilities.",
+    amenities: ["WiFi", "Laundry"],
+    contact: {
+      phone: "+91 8590657666",
+      email: "hillview@gmail.com",
+      address: "eranholi,Thalassery,kerala 670107",
+    },
+     
+  {
     id: "5",
     name: "EBENEZER PG FOR GENTS",
     type: "PG",
