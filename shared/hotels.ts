@@ -44,7 +44,12 @@ export const HOTELS: Hotel[] = [
     rating: 4.7,
     price: 230,
     image: "https://t3.ftcdn.net/jpg/17/48/63/02/240_F_1748630267_IEet0YVIORl5tos9zZ1SlqVAI2Nc8WhV.jpg",
-    description: "
+    description: "Well-maintained ladies hostel providing a safe and comfortable environment with essential facilities.",
+    amenities: ["WiFi", "Laundry", "24/7 Security", "Pure Water"],
+    contact: {
+      phone: "+91 94476 54321",
+      email: "motherteresa@gmail.com",
+      address: "Near Chemperi Church, Chemperi, Kannur, Kerala 670632",
     },
   },
   {
