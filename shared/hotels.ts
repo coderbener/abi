@@ -77,7 +77,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.8,
     price: 350,
-    image: "https://www.google.com/imgres?q=pg%20hostel%20by%20jv%20and%20n%20group%20thalassery&imgurl=https%3A%2F%2Fcontent3.jdmagicbox.com%2Fcomp%2Fthalassery%2Fl6%2F9999px490.x490.171223195224.c3l6%2Fcatalogue%2Fjv-and-n-group-chonadam-thalassery-hostels-for-men-uq0mryvuu8.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FThalassery%2FJV-N-Group-Near-Vadiyilpeedika-Ground-Chonadam%2F9999PX490-X490-171223195224-C3L6_BZDET&docid=L-lj0zY-mIHjhM&tbnid=ouxq_QhEJmnnPM&vet=12ahUKEwi9jKyY54-TAxXJyjgGHVw_FhUQM3oECBsQAA..i&w=1080&h=588&hcb=2&ved=2ahUKEwi9jKyY54-TAxXJyjgGHVw_FhUQM3oECBsQAA",
+    image: "https://www.google.com/imgres?q=pg%20hostel%20by%20jv%20and%20n%20group%20thalassery&imgurl=https%3A%2F%2Fcontent3.jdmagicbox.com%2Fcomp%2Fthalassery%2Fl6%2F9999px490.x490.171223195224.c3l6%2Fcatalogue%2Fjv-and-n-group-chonadam-thalassery-hostels-for-men-uq0mryvuu8.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FThalassery%2FJV-N-Group-Near-Vadiyilpeedika-Ground-Chonadam%2F9999PX490-X490-171223195224-C3L6_BZDET&docid=L-lj0zY-mIHjhM&tbnid=ouxq_QhEJmnnPM&vet=12ahUKEwjQwZ_x6I-TAxVMyjgGHVmkCvUQM3oECBUQAA..i&w=1080&h=588&hcb=2&ved=2ahUKEwjQwZ_x6I-TAxVMyjgGHVmkCvUQM3oECBUQAA",
     description: "Newly constructed paying guest facility near College of Engineering Thalassery, Kannur. (CAPE).",
     amenities: ["wifi", "laundry","transportation service"],
     contact: {
