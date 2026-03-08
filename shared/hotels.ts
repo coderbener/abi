@@ -22,7 +22,7 @@ export const HOTELS: Hotel[] = [
   // Chemperi
   {
     id: "1",
-    name: "surabhi PG",
+    name: "Surabhi PG",
     type: "guest-house",
     location: "Chemperi",
     rating: 2.8,
@@ -38,7 +38,7 @@ export const HOTELS: Hotel[] = [
   },
   {
     id: "2",
-    name: "mother teresa PG hostel & guest house",
+    name: "Mother teresa PG hostel & guest house",
     type: "guest-house",
     location: "Chemperi",
     rating: 4.7,
