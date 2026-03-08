@@ -363,18 +363,18 @@ export const HOTELS: Hotel[] = [
   },
    {
     id: "26", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
-    name: "NAME OF YOUR NEW PG",
+    name: "Aroma ladies PG",
     type: "PG", 
-    location: "Thalassery",
-    rating: 4.5,
-    price: 450, // Price per day
+    location: "Kochi",
+    rating: 5.0,
+     price: 800, // Price per day
     image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
-    description: "Write a short description of the PG here.",
+    description: "WWell maintained PG with good facilities.",
     amenities: ["WiFi", "Laundry", "Food", "Security"],
     contact: {
-      phone: "+91 00000 00000",
-      email: "example@gmail.com",
-      address: "Specific Address in Thalassery",
+      phone: "+91 6282149433",
+      email: "aromaaa@gmail.com",
+      address: "Pavankulangara,Thrippunithura,KOCHI,KERALA 682301",
     },
   },
   {
