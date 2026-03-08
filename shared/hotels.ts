@@ -38,18 +38,13 @@ export const HOTELS: Hotel[] = [
   },
   {
     id: "2",
-    name: "Chemperi Valley Villa",
-    type: "villa",
+    name: "mother teresa PG hostel & guest house",
+    type: "guest-house",
     location: "Chemperi",
-    rating: 4.6,
-    price: 12000,
+    rating: 4.7,
+    price: 230,
     image: "https://t3.ftcdn.net/jpg/17/48/63/02/240_F_1748630267_IEet0YVIORl5tos9zZ1SlqVAI2Nc8WhV.jpg",
-    description: "Private villa with stunning valley views, perfect for a romantic getaway.",
-    amenities: ["WiFi", "Private Garden", "Kitchen", "Pool", "Jacuzzi", "Terrace"],
-    contact: {
-      phone: "+91 9876543211",
-      email: "reservations@chemperi-villa.com",
-      address: "Chemperi Valley, Kerala 673591",
+    description: "
     },
   },
   {
