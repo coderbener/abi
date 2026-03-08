@@ -352,7 +352,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.8,
     price: 700, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    image: "", 
     description: "Affordable ladies pg with good facilities.",
     amenities: ["WiFi", "Security"],
     contact: {
@@ -368,7 +368,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 5.0,
      price: 800, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    image: "", 
     description: "WWell maintained PG with good facilities.",
     amenities: ["WiFi", "Laundry", "Food", "Security"],
     contact: {
@@ -384,7 +384,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.9,
     price: 700,
-    image: "https://t3.ftcdn.net/jpg/02/66/26/92/240_F_266269223_voOEkuIoS51yrL5G2Lw01OnqQQx9qBUb.jpg",
+    image: "https://lh3.googleusercontent.com/p/AF1QipO0OUMYq1Yw7GqGOvrWsRsGh5OIpRSYMaGYCB2A=s1360-w1360-h1020-rw",
     description: "affordable ladies pg with advanced security.",
     amenities: ["WiFi", "laundary", "CCTV", "security"],
     contact: {
