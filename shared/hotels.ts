@@ -79,10 +79,10 @@ export const HOTELS: Hotel[] = [
     price: 6500,
     image: "https://t3.ftcdn.net/jpg/00/65/73/00/240_F_65730021_hjLGH7LgvYg6zZNT26xPrYI3HvuAQ9Bx.jpg",
     description: "Newly constructed paying guest facility near College of Engineering Thalassery, Kannur. (CAPE).",
-    amenities: ["wifi", "laundry"],
+    amenities: ["wifi", "laundry","transportation service"],
     contact: {
-      phone: "+91 9595335132",
-      email: "info@thalassery-beach.com",
+      phone: "+91 9495335132",
+      email: "jvnpg@gmail.com",
       address: "Vadiyilpeedika Vadiyilpeedika, 100 metres from Vadiyilpeedika, Road, Chonadam, Thalassery, Kerala 670107",
     },
   },
