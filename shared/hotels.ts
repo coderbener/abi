@@ -175,7 +175,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 3.0,
     price: 350, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    image:"", 
     description: "Well maintained affordable hostel.",
     amenities: ["WiFi", "cleaning"],
     contact: {
@@ -207,7 +207,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 5.0,
     price: 500, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    image: "https://content.jdmagicbox.com/v2/comp/kottayam/g9/9999px481.x481.251230091732.m1g9/catalogue/royal-sanctuary-mens-hostel-kodimatha-kottayam-paying-guest-accommodations-segd78ivjv.jpg", 
     description: "Cozy and well maintained boys hostel.",
     amenities: ["WiFi","cleaning"],
     contact: {
