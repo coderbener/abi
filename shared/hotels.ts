@@ -167,6 +167,70 @@ export const HOTELS: Hotel[] = [
       address: "Cooperative Bank, opp. Kodiyeri, Illathaazha, Thalassery, Kodiyeri, Kerala 670103",
     },
   },
+  {
+    id: "16", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "malal men hostel",
+    type: "hostel", 
+    location: "Thalassery",
+    rating: 4.4,
+    price: 400, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "affordable mens hostel with good facilities.",
+    amenities: ["WiFi", "Laundry", "cleaning"],
+    contact: {
+      phone: "+91 8590656767",
+      email: "malal123@gmail.com",
+      address: "malal road kundoormala,eranholi,Thalassery,kerala 670641",
+    },
+  },
+  {
+    id: "17", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "youth hostel",
+    type: "hostel", 
+    location: "Thalassery",
+    rating: 3.0,
+    price: 350, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "well maintained affordable hostel.",
+    amenities: ["WiFi", "cleaning"],
+    contact: {
+      phone: "+91 9495678767",
+      email: "youth546@gmail.com",
+      address: "pallisery, Thalassery,kerala 670101",
+    },
+  },
+  {
+    id: "19", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "shamah residency boys hostel",
+    type: "PG", 
+    location: "Thalassery",
+    rating: 4.2,
+    price: 400, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "affordable boys pg with advanced facilities.",
+    amenities: ["WiFi", "Security"],
+    contact: {
+      phone: "+91 8590765438",
+      email: "shamah345@gmail.com",
+      address: "kundoormala,eranholi,Thalassery,kerala 670107",
+    },
+  },
+  {
+    id: "20", // ⬅️ Make sure this number is unique (use "14", "15" for next ones)
+    name: "vandanam boys hostel",
+    type: "hostel", 
+    location: "Thalassery",
+    rating: 5.0,
+    price: 500, // Price per day
+    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    description: "cozy and well maintained boys hostel.",
+    amenities: ["WiFi","cleaning"],
+    contact: {
+      phone: "+91 9446778909",
+      email: "vandanam56@gmail.com",
+      address: "kundoormala,eranholi,Thalassery,kerala 670641",
+    },
+  },
 
   // Kannur
   {
