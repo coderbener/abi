@@ -93,7 +93,7 @@ export const HOTELS: Hotel[] = [
     location: "Thalassery",
     rating: 4.7,
     price: 450, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    image: "",
     description: "Affordable pg with godd facilities.",
     amenities: ["WiFi", "Laundry", "Food", "Security"],
     contact: {
