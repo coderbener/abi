@@ -320,7 +320,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 4.9,
     price: 750,
-    image: "https://t3.ftcdn.net/jpg/01/85/53/08/240_F_185530861_EMFfT3pBVMLWjIPY7qfIkisqGZHZruBw.jpg",
+    image: "https://lh3.googleusercontent.com/p/AF1QipMIKEuPpX6bKl5b0fWxCmv9zrr-iXK-oWQxe-TA=s1360-w1360-h1020-rw",
     description: "affordable ladies pg with advanced facilities.",
     amenities: ["WiFi", "cleaning", "laundary"],
     contact: {
@@ -336,7 +336,7 @@ export const HOTELS: Hotel[] = [
     location: "Kochi",
     rating: 5.0,
     price: 800,
-    image: "https://t4.ftcdn.net/jpg/05/31/51/17/240_F_531511778_g7VshZK86lPxkRcyNFtyxKy0jtVu5dhJ.jpg",
+    image: "https://content.jdmagicbox.com/comp/ernakulam/p1/0484px484.x484.230128050537.u6p1/catalogue/angels-pg-service-for-ladies-pachalam-ernakulam-hostels-0nntpfrb0s.jpg",
     description: "Affordable ladies pg with advanced facilities.",
     amenities: ["WiFi", "food","cleaning"],
     contact: {
