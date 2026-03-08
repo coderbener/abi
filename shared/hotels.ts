@@ -257,7 +257,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.7,
     price: 400,
-    image: "",
+    image: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepoMp7WO0CRPm8FBeWAxCUno_4fTPRZsX6KSMfBFEzPvrplQV_1ka9qdSs2pGNhVjFLq5bVt_pNN1yZiK0hH_ohqZTo5C1B-Emq8xftE5IzgrwdRk7rjy3DvPFg04U_lI871YXf=s1360-w1360-h1020-rw",
     description: "Affordable ladies PG with essential amenities.",
     amenities: ["WiFi","cleaning", "laundary"],
     contact: {
