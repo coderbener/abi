@@ -58,10 +58,10 @@ export const HOTELS: Hotel[] = [
     type: "guest-house",
     location: "Chemperi",
     rating: 4.3,
-    price: 3500,
+    price: 350,
     image: "https://images.pexels.com/photos/3555615/pexels-photo-3555615.jpeg?w=800&h=600&fit=crop",
-    description: "Cozy and affordable guest house with warm hospitality and local charm.",
-    amenities: ["WiFi", "Common Kitchen", "Garden", "Local Experience"],
+    description: "Cozy and affordable guest house with advanced facilities.",
+    amenities: ["WiFi", "cleaning", "laundary"],
     contact: {
       phone: "+91 9876543212",
       email: "stay@chemperi-guest.com",
