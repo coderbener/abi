@@ -68,7 +68,8 @@ export const HOTELS: Hotel[] = [
       address: "Chemperi Town, Kerala 673591",
     },
   },
-
+  id: 4
+    
   // Thalassery
   {
     id: "4",
@@ -159,8 +160,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.7,
     price: 400,
-    image: "https://www.google.com/imgres?q=nest%20pg%20for%20girls&imgurl=https%3A%2F%2Fcontent3.jdmagicbox.com%2Fv2%2Fcomp%2Fguwahati%2Fe7%2F9999px361.x361.180301213415.a9e7%2Fcatalogue%2Fnest-pg-for-girls-chandmari-guwahati-paying-guest-accommodations-0qauogpvs8.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FGuwahati%2FNest-Pg-For-Girls-Near-Chandmari-Fire-Station-Chandmari%2F9999PX361-X361-180301213415-A9E7_BZDET&docid=Ucm1B7e4STcbQM&tbnid=u9oJVmtB7eg1JM&vet=12ahUKEwiHxZ2X_I-TAxUORmwGHeLnAY0QM3oECBkQAA..i&w=1728&h=1296&hcb=2&ved=2ahUKEwiHxZ2X_I-TAxUORmwGHeLnAY0QM3oECBkQAA.jpg",
-    description: "affordable ladies pg with advanced facilities.",
+    image: "",
     amenities: ["WiFi","cleaning", "laundary"],
     contact: {
       phone: "+91 9946404141",
