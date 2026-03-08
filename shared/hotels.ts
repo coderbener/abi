@@ -122,18 +122,18 @@ export const HOTELS: Hotel[] = [
   // Kannur
   {
     id: "7",
-    name: "Kannur Fort Hotel",
-    type: "hotel",
+    name: "Faraag mens hostel",
+    type: "hostel",
     location: "Kannur",
-    rating: 4.4,
-    price: 5500,
-    image: "https://t3.ftcdn.net/jpg/06/45/82/22/240_F_645822250_Pd5aGmPZNJLfNbQI3vMKuI2YKh096hHu.jpg",
-    description: "Historic hotel near Kannur Fort with traditional Kerala architecture and modern amenities.",
-    amenities: ["WiFi", "Restaurant", "Fort View", "Spa", "Guided Tours", "Bar"],
+    rating: 3.5,
+    price: 350,
+    image: "https://www.google.com/imgres?q=faraag%20men%27s%20hostel%20kannur%20reviews&imgurl=https%3A%2F%2Fcontent.jdmagicbox.com%2Fcomp%2Fkannur%2Fk2%2F9999px497.x497.191207111437.q9k2%2Fcatalogue%2Ffaraag-mens-hostel-kannur-city-kannur-hostels-427s3yecc4-250.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FKannur%2FFaraag-Mens-Hostel-Near-Malabar-Gold-Diamond-Jewellery-Kannur-South%2F9999PX497-X497-191207111437-Q9K2_BZDET&docid=FQQfl5vvdBHkbM&tbnid=-Hw1LpbHXWUH8M&vet=12ahUKEwi48rzP7o-TAxUf4zgGHWAbNskQM3oECBYQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwi48rzP7o-TAxUf4zgGHWAbNskQM3oECBYQAA",
+    description: "well maintained and affordable pg.",
+    amenities: ["WiFi", "cleaning", "laundary"],
     contact: {
-      phone: "+91 9876543216",
-      email: "stay@kannur-fort.com",
-      address: "Kannur Fort Area, Kerala 670503",
+      phone: "+91 9446334255",
+      email: "faraag@gmail.com",
+      address: "ballard road kannur, Kerala 670001",
     },
   },
   {
