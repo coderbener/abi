@@ -73,13 +73,13 @@ export const HOTELS: Hotel[] = [
   {
     id: "4",
     name: "PG hostel by JV@N GROUP",
-    type: "guest house",
+    type: "guest-house",
     location: "Thalassery",
     rating: 4.8,
     price: 6500,
     image: "https://t3.ftcdn.net/jpg/00/65/73/00/240_F_65730021_hjLGH7LgvYg6zZNT26xPrYI3HvuAQ9Bx.jpg",
     description: "Newly constructed paying guest facility near College of Engineering Thalassery, Kannur. (CAPE).",
-    amenities: ["wifi",laundar],
+    amenities: ["wifi", "laundry"],
     contact: {
       phone: "+91 9595335132",
       email: "info@thalassery-beach.com",
