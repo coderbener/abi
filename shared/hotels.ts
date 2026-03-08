@@ -273,7 +273,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 4.1,
     price: 450, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+   image: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerFYBYkTE5-kPkKUPY-QjuASwsF0OTTYD6HSz69o4oUfq8wmM5kLJdmVOGOWFfRxJ1B_LA2w0caUU24C6boWbhkQb-dxdh_bOIKLwyYD7wmp6KZsbLM_1wLBHfR50npAf09vtZq=s1360-w1360-h1020-rw",
     description: "Affordable pg with advanced facilities.",
     amenities: ["WiFi", "Laundry", "Food"],
     contact: {
@@ -288,7 +288,7 @@ export const HOTELS: Hotel[] = [
     location: "Kannur",
     rating: 5.0,
     price: 500, // Price per day
-    image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg", 
+    image: "https://lh3.googleusercontent.com/p/AF1QipNLHoCaz6Gvi9KsUDYTFD1Dq6FcOZpBctd3KioX=s1360-w1360-h1020-rw", 
     description: "affordable group accommoadated well maintained pg.",
     amenities: ["WiFi", "Laundry", "Food", "Security"],
     contact: {
